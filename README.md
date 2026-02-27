@@ -8,7 +8,7 @@ It is designed for IT administrators, penetration testers, and security teams wh
 
 ## Features
 
-### Security Checks (24 total)
+### Security Checks - This list is not currently a full list of checks
 
 | # | Check | Description |
 |---|-------|-------------|
