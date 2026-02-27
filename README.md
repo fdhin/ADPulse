@@ -8,7 +8,7 @@ It is designed for IT administrators, penetration testers, and security teams wh
 
 ## Features
 
-### Security Checks - This list is not currently a full list of checks
+### Security Checks - Checks for 35 different types of vulnerabilities, including the following (the entire list of items are not listed here)
 
 | # | Check | Description |
 |---|-------|-------------|
